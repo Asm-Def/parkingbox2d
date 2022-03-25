@@ -1,4 +1,5 @@
 build/*
+library/Box2D.egg-info/
 dist/*
 *.py[oc]
 *.swo
@@ -6,3 +7,4 @@ dist/*
 *.so
 Box2D.py
 _Box2D.pyd
+Box2D/Box2D_wrap.*
